@@ -23,7 +23,6 @@ The following key questions were explored in the analysis:
 ## Repository Contents
 - `stackoverflow_analysis.ipynb`: The main analysis notebook with preprocessing, analysis, and visualization.
 - `survey_results_public.zip`: Contains the compressed dataset used for analysis.
-- `images/`: Includes visualizations generated during analysis.
 - `requirements.txt`: Required Python packages.
 
 ## Installation
